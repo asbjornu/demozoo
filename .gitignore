@@ -17,3 +17,6 @@
 *.sw[op]
 db.env
 .vscode
+
+# The data directory of PostgreSQL running in Docker:
+.docker/db/pgdata
