@@ -15,7 +15,7 @@
 /node_modules
 /npm-debug.log
 *.sw[op]
-db.env
+.env
 .vscode
 
 # The data directory of PostgreSQL running in Docker:
